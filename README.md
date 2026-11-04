@@ -28,7 +28,7 @@ The target labels are SZZ-derived indicators of bug-inducing commits. They are a
 
 
 
-\## Project overview
+## Project overview
 
 
 

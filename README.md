@@ -24,6 +24,10 @@ At the selected threshold, the model flagged 14,288 of 72,093 test commits (abou
 
 The target labels are SZZ-derived indicators of bug-inducing commits. They are a noisy proxy and do not prove that a commit introduced a defect.
 
+
+
+
+
 \## Project overview
 
 
